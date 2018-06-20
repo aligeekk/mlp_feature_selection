@@ -1,0 +1,68 @@
+/usr/bin/python3.6 /home/darrenlawton/Documents/workspace/COMP8420/COMP8420_Assignment_Two/src/main_relevance.py
+Model has been pruned to include 17 inputs. Best performance was 57.36434108527132. Average performance was 53.457364341085274
+['output' 'AXJO_rt1' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r'
+ 'AXJO_asy2_r' 'ma5_r' 'psy12_r' 'volume_rt1' 'volume_asy5_r'
+ 'volume_asy4_r' 'volume_asy3_r' 'volume_asy2_r' 'dji_rt1' 'dji_asy5_r'
+ 'dji_asy4_r' 'dji_asy3_r' 'dji_asy2_r']
+Model has been pruned to include 16 inputs. Best performance was 58.52713178294574. Average performance was 53.131782945736425
+['output' 'AXJO_rt1' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r'
+ 'AXJO_asy2_r' 'ma5_r' 'psy12_r' 'volume_rt1' 'volume_asy5_r'
+ 'volume_asy4_r' 'volume_asy3_r' 'dji_rt1' 'dji_asy5_r' 'dji_asy4_r'
+ 'dji_asy3_r' 'dji_asy2_r']
+Model has been pruned to include 15 inputs. Best performance was 57.36434108527132. Average performance was 53.10077519379845
+['output' 'AXJO_rt1' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r'
+ 'AXJO_asy2_r' 'ma5_r' 'psy12_r' 'volume_rt1' 'volume_asy5_r'
+ 'volume_asy4_r' 'volume_asy3_r' 'dji_asy5_r' 'dji_asy4_r' 'dji_asy3_r'
+ 'dji_asy2_r']
+Model has been pruned to include 14 inputs. Best performance was 55.03875968992248. Average performance was 51.50387596899224
+['output' 'AXJO_rt1' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r'
+ 'AXJO_asy2_r' 'ma5_r' 'psy12_r' 'volume_rt1' 'volume_asy5_r'
+ 'volume_asy4_r' 'volume_asy3_r' 'dji_asy5_r' 'dji_asy4_r' 'dji_asy3_r']
+Model has been pruned to include 13 inputs. Best performance was 57.36434108527132. Average performance was 51.72093023255814
+['output' 'AXJO_rt1' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r' 'ma5_r'
+ 'psy12_r' 'volume_rt1' 'volume_asy5_r' 'volume_asy4_r' 'volume_asy3_r'
+ 'dji_asy5_r' 'dji_asy4_r' 'dji_asy3_r']
+Model has been pruned to include 12 inputs. Best performance was 56.97674418604651. Average performance was 50.63565891472867
+['output' 'AXJO_rt1' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r' 'ma5_r'
+ 'psy12_r' 'volume_rt1' 'volume_asy5_r' 'volume_asy4_r' 'dji_asy5_r'
+ 'dji_asy4_r' 'dji_asy3_r']
+Model has been pruned to include 11 inputs. Best performance was 56.58914728682171. Average performance was 51.37984496124031
+['output' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r' 'ma5_r' 'psy12_r'
+ 'volume_rt1' 'volume_asy5_r' 'volume_asy4_r' 'dji_asy5_r' 'dji_asy4_r'
+ 'dji_asy3_r']
+Model has been pruned to include 10 inputs. Best performance was 55.42635658914729. Average performance was 50.2170542635659
+['output' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r' 'psy12_r' 'volume_rt1'
+ 'volume_asy5_r' 'volume_asy4_r' 'dji_asy5_r' 'dji_asy4_r' 'dji_asy3_r']
+Model has been pruned to include 9 inputs. Best performance was 54.651162790697676. Average performance was 51.22480620155039
+['output' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r' 'psy12_r' 'volume_rt1'
+ 'volume_asy5_r' 'volume_asy4_r' 'dji_asy5_r' 'dji_asy3_r']
+Model has been pruned to include 8 inputs. Best performance was 57.751937984496124. Average performance was 51.379844961240316
+['output' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r' 'volume_rt1'
+ 'volume_asy5_r' 'volume_asy4_r' 'dji_asy5_r' 'dji_asy3_r']
+Model has been pruned to include 7 inputs. Best performance was 55.81395348837209. Average performance was 51.25581395348838
+['output' 'AXJO_asy5_r' 'AXJO_asy4_r' 'AXJO_asy3_r' 'volume_rt1'
+ 'volume_asy5_r' 'volume_asy4_r' 'dji_asy5_r']
+Model has been pruned to include 6 inputs. Best performance was 56.58914728682171. Average performance was 51.31782945736433
+['output' 'AXJO_asy5_r' 'AXJO_asy4_r' 'volume_rt1' 'volume_asy5_r'
+ 'volume_asy4_r' 'dji_asy5_r']
+Model has been pruned to include 5 inputs. Best performance was 55.03875968992248. Average performance was 51.90697674418604
+['output' 'AXJO_asy5_r' 'AXJO_asy4_r' 'volume_rt1' 'volume_asy5_r'
+ 'dji_asy5_r']
+Model has been pruned to include 4 inputs. Best performance was 55.81395348837209. Average performance was 51.73643410852713
+['output' 'AXJO_asy5_r' 'AXJO_asy4_r' 'volume_rt1' 'dji_asy5_r']
+Model has been pruned to include 3 inputs. Best performance was 60.46511627906977. Average performance was 54.20155038759688
+['output' 'AXJO_asy4_r' 'volume_rt1' 'dji_asy5_r']
+Model has been pruned to include 2 inputs. Best performance was 56.97674418604651. Average performance was 53.472868217054256
+['output' 'AXJO_asy4_r' 'volume_rt1']
+Model has been pruned to include 1 inputs. Best performance was 57.36434108527132. Average performance was 53.643410852713174
+['output' 'volume_rt1']
+Model has been pruned to include 0 inputs. Best performance was 60.85271317829457. Average performance was 54.68217054263566
+['output']
+the best model had 1 inputs, with 54.68217054263566 accuracy.
+validation results: 55.12820512820513
+TwoLayerNet(
+  (hidden): Linear(in_features=1, out_features=2, bias=True)
+  (out): Linear(in_features=2, out_features=1, bias=True)
+)
+
+Process finished with exit code 0

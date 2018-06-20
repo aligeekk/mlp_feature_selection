@@ -1,0 +1,30 @@
+/usr/bin/python3.6 /home/darrenlawton/Documents/workspace/COMP8420/COMP8420_Assignment_Two/src/main_GA.py
+ Most fitted DNA:  [1 0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0] best = 60.07751937984496 , generational average = 52.95607235142119
+ Most fitted DNA:  [0 1 1 1 0 1 1 1 0 0 1 0 1 1 1 1 0 1] best = 61.24031007751938 , generational average = 52.95607235142119
+ Most fitted DNA:  [0 1 1 1 1 0 0 1 0 0 0 0 0 1 1 0 1 0] best = 57.751937984496124 , generational average = 52.614987080103354
+ Most fitted DNA:  [1 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 0] best = 59.30232558139535 , generational average = 53.36434108527131
+ Most fitted DNA:  [0 0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 1 1] best = 60.85271317829457 , generational average = 53.17829457364341
+ Most fitted DNA:  [1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 1 1] best = 60.46511627906977 , generational average = 53.286821705426355
+ Most fitted DNA:  [0 0 0 0 1 0 1 1 0 0 1 0 0 1 0 0 0 1] best = 59.689922480620154 , generational average = 53.21447028423773
+ Most fitted DNA:  [1 0 0 1 1 1 1 0 1 1 0 1 0 1 0 0 1 0] best = 60.07751937984496 , generational average = 53.09560723514212
+ Most fitted DNA:  [0 1 1 0 0 1 1 1 1 1 1 0 1 1 0 1 0 1] best = 58.91472868217054 , generational average = 52.92506459948321
+ Most fitted DNA:  [0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0] best = 60.85271317829457 , generational average = 52.97157622739018
+ Most fitted DNA:  [1 0 0 1 1 0 1 0 0 1 0 0 1 1 1 0 1 1] best = 61.24031007751938 , generational average = 53.81912144702842
+ Most fitted DNA:  [1 1 0 0 0 1 0 1 0 1 0 0 0 1 1 1 1 0] best = 60.46511627906977 , generational average = 53.49870801033592
+ Most fitted DNA:  [0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0] best = 61.24031007751938 , generational average = 53.65891472868216
+ Most fitted DNA:  [1 1 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 1] best = 60.46511627906977 , generational average = 52.95090439276486
+ Most fitted DNA:  [1 0 0 1 0 1 1 1 0 1 0 0 0 1 0 0 1 1] best = 60.85271317829457 , generational average = 53.002583979328165
+ Most fitted DNA:  [0 1 0 0 0 1 1 1 0 1 0 0 0 1 1 1 1 0] best = 58.91472868217054 , generational average = 52.80103359173127
+ Most fitted DNA:  [1 0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0] best = 59.689922480620154 , generational average = 52.85788113695091
+ Most fitted DNA:  [0 0 1 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0] best = 60.85271317829457 , generational average = 53.41085271317829
+ Most fitted DNA:  [0 1 1 0 0 0 1 1 0 0 0 0 0 1 0 1 0 0] best = 59.689922480620154 , generational average = 53.78811369509044
+ Most fitted DNA:  [1 1 1 1 1 0 0 1 0 0 0 0 0 1 1 1 1 0] best = 62.7906976744186 , generational average = 53.48837209302326
+ Most fitted DNA:  [0 0 1 0 0 1 1 1 0 1 0 1 1 1 1 0 0 1] best = 59.30232558139535 , generational average = 52.68217054263566
+ Most fitted DNA:  [1 0 0 0 1 1 0 0 1 1 0 1 1 0 0 0 1 0] best = 61.24031007751938 , generational average = 53.29198966408269
+ Most fitted DNA:  [0 0 1 0 1 1 0 0 1 0 0 0 1 1 0 1 1 1] best = 58.91472868217054 , generational average = 53.17829457364341
+ Most fitted DNA:  [1 1 0 0 0 1 1 1 0 0 0 1 1 1 1 0 0 1] best = 61.24031007751938 , generational average = 53.452196382428944
+ Most fitted DNA:  [0 0 1 0 0 1 1 1 1 0 1 0 1 1 1 1 1 0] best = 62.01550387596899 , generational average = 53.03359173126615
+generational best:  [array([0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0])]
+['AXJO_asy4_r', 'ma5_r', 'bias6_r', 'psy12_r', 'volume_rt1','volume_asy4_r', 'volume_asy2_r', 'dji_rt1', 'dji_asy5_r', 'dji_asy4_r', 'dji_asy3_r']
+validation results: 64.1025641025641
+
